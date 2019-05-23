@@ -1,3 +1,3 @@
-run: main.cpp
-	g++ main.cpp
+run: GarzonCamilo.cpp
+	g++ GarzonCamilo.cpp
 	./a.out
